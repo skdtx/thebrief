@@ -1,0 +1,4 @@
+interface:
+  display_name: "TheBrief"
+  short_description: "Понятные финансовые и продуктовые тексты"
+  default_prompt: "Используй $thebrief, чтобы написать, отредактировать или проверить этот текст без изменения его смысла."
