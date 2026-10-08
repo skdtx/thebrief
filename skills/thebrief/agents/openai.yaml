@@ -1,0 +1,6 @@
+interface:
+  display_name: "TheBrief"
+  short_description: "Понятные тексты о финансах по методике «Пиши, сокращай»"
+  default_prompt: "Используй $thebrief: отредактируй текст по методике, сохрани смысл и цель. Сначала готовый текст, потом что изменено и почему."
+policy:
+  allow_implicit_invocation: true
